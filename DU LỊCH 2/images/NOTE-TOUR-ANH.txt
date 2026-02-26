@@ -1,0 +1,76 @@
+================================================================================
+GHI CHÚ ẢNH TOUR – BẠN CẦN THÊM CÁC FILE ẢNH SAU
+================================================================================
+Đặt ảnh vào thư mục: images/
+Định dạng: .jpg hoặc .png (trong code đang dùng .jpg)
+Kích thước gợi ý: 900×500 px trở lên (tỉ lệ ngang, cho thẻ tour).
+
+---- ẢNH TOUR ĐÃ CÓ SẴN (tour-1 đến tour-11) ----
+Bạn đã có trong DANH-SACH-ANH.txt. Chỉ cần đảm bảo đủ 11 file: tour-1.jpg → tour-11.jpg.
+
+---- ẢNH TOUR MỚI – CẦN THÊM (tour-12 đến tour-25) ----
+
+tour-12.jpg
+  → Tour: Ninh Bình - Tràng An - Bái Đính 2N1Đ
+  → Gợi ý: Cảnh Tràng An thuyền, hoặc chùa Bái Đính, hoặc Tam Cốc (núi đá, sông).
+
+tour-13.jpg
+  → Tour: Hạ Long - Tuần Châu 2N1Đ (Tàu 3 sao)
+  → Gợi ý: Tàu du thuyền trên vịnh Hạ Long, kayak, hoặc hang Luồn.
+
+tour-14.jpg
+  → Tour: Nha Trang - VinWonders - Bãi Dài 3N2Đ
+  → Gợi ý: Biển Nha Trang, cáp treo Vinpearl, hoặc bãi Dài.
+
+tour-15.jpg
+  → Tour: Huế 2N1Đ - Cố đô một ngày
+  → Gợi ý: Đại Nội Huế, chùa Thiên Mụ, hoặc lăng (Minh Mạng / Tự Đức).
+
+tour-16.jpg
+  → Tour: Côn Đảo 3N2Đ - Lịch sử và biển
+  → Gợi ý: Bãi biển Côn Đảo, nghĩa trang Hàng Dương, hoặc bãi Đầm Trầu.
+
+tour-17.jpg
+  → Tour: Mũi Né - Đồi cát - Làng chài 2N1Đ
+  → Gợi ý: Đồi cát đỏ/trắng Mũi Né, làng chài, hoặc suối tiên (Fairy Stream).
+
+tour-18.jpg
+  → Tour: Mù Cang Chải - Ruộng bậc thang 3N2Đ
+  → Gợi ý: Ruộng bậc thang vàng mùa lúa chín, đèo Khau Phạ, hoặc làng Mông.
+
+tour-19.jpg
+  → Tour: Hà Nội - Ẩm thực phố cổ 1 ngày
+  → Gợi ý: Phở, bún chả, cà phê trứng, hoặc phố cổ Hà Nội (góc quán ăn).
+
+tour-20.jpg
+  → Tour: Cù Lao Chàm - Lặn ngắm san hô 1 ngày
+  → Gợi ý: Cù Lao Chàm, người lặn/snorkeling, bãi biển đảo, canô.
+
+tour-21.jpg
+  → Tour: Cao Bằng - Pác Bó - Thác Bản Giốc 3N2Đ
+  → Gợi ý: Thác Bản Giốc, khu di tích Pác Bó (suối Lê-nin), hoặc hồ Thang Hen.
+
+tour-22.jpg
+  → Tour: Bắc Kạn - Hồ Ba Bể 2N1Đ
+  → Gợi ý: Hồ Ba Bể (thuyền, núi), động Puông, hoặc bản Pác Ngòi.
+
+tour-23.jpg
+  → Tour: Lý Sơn - Đảo tỏi 2N1Đ
+  → Gợi ý: Hang Câu, chùa Hang, cổng Tò Vò, hoặc cánh đồng tỏi Lý Sơn.
+
+tour-24.jpg
+  → Tour: Cần Giờ - Rừng Sác - Đảo Thạnh An 1 ngày
+  → Gợi ý: Rừng ngập mặn Cần Giờ, canô trong rừng, đảo Thạnh An.
+
+tour-25.jpg
+  → Tour: Bình Định - Quy Nhơn - Kỳ Co 4N3Đ
+  → Gợi ý: Tháp Chăm Bánh Ít, bãi Kỳ Co, Eo Gió, hoặc biển Quy Nhơn.
+
+================================================================================
+TÓM TẮT
+================================================================================
+- Cần thêm 14 ảnh: tour-12.jpg → tour-25.jpg
+- Mỗi ảnh nên thể hiện đúng điểm đến / hoạt động của tour để trang tour đa dạng và dễ nhận diện.
+- Nếu chưa có ảnh thật, bạn có thể dùng ảnh stock (Unsplash, Pexels…) và đổi tên file cho đúng.
+
+================================================================================

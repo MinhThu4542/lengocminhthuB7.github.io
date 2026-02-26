@@ -1,0 +1,97 @@
+================================================================================
+DANH SÁCH ĐẦY ĐỦ TÊN ẢNH - VIETNAM TRAVEL
+Bạn tìm ảnh phù hợp, đổi tên file đúng như bên dưới và bỏ vào thư mục images/
+================================================================================
+
+---- TRANG CHỦ (index.html + main.js) ----
+
+1. hero-1-halong.jpg
+   Gợi ý: Vịnh Hạ Long, thuyền, núi đá, vịnh biển (ảnh nền hero, khổ ngang)
+
+2. hero-2-terrace.jpg
+   Gợi ý: Ruộng bậc thang Mù Cang Chải / Sapa / Tây Bắc (ảnh nền hero, khổ ngang)
+
+3. hero-3-hoian.jpg
+   Gợi ý: Phố cổ Hội An, đèn lồng, sông, phố đêm (ảnh nền hero, khổ ngang)
+
+4. region-north.jpg
+   Gợi ý: Miền Bắc - Lăng Bác / Văn Miếu / chùa Trấn Quốc / Hạ Long / Tam Cốc (di tích, thắng cảnh, chùa)
+
+5. region-central.jpg
+   Gợi ý: Miền Trung - Cố đô Huế / chùa Thiên Mụ / phố cổ Hội An / Bà Nà (di tích, thắng cảnh, chùa)
+
+6. region-south.jpg
+   Gợi ý: Miền Nam - Sông nước Mekong / Phú Quốc / chùa Sài Gòn / địa đạo Củ Chi (di tích, thắng cảnh, chùa)
+
+---- COMBO (trang chủ, main.js) ----
+
+7. combo-1.jpg   → Combo Hà Nội - Đà Nẵng (cảnh Đà Nẵng / Ninh Bình / phong cảnh)
+8. combo-2.jpg   → Combo Sài Gòn - Phú Quốc (biển Phú Quốc, resort)
+9. combo-3.jpg   → Combo Hà Nội - Đà Lạt (Đà Lạt, đồi chè, hoa)
+10. combo-4.jpg  → Combo Huế - Hội An (cố đô Huế, Hội An)
+11. combo-5.jpg  → Combo Côn Đảo (biển Côn Đảo, thiên nhiên)
+12. combo-6.jpg  → Combo Nha Trang (biển Nha Trang, resort)
+
+---- TOUR (trang chủ/tours, main.js) ----
+
+13. tour-1.jpg   → Hà Nội - Hạ Long - Ninh Bình (vịnh, di sản)
+14. tour-2.jpg   → Sapa - Fansipan - Bản Cát Cát (núi, bản làng)
+15. tour-3.jpg   → Mộc Châu - Mai Châu (đồi chè, thung lũng)
+16. tour-4.jpg   → Hà Giang - Đồng Văn - Mã Pì Lèng (cao nguyên đá, đèo)
+17. tour-5.jpg   → Đà Nẵng - Hội An - Bà Nà (biển, phố cổ, cầu Vàng)
+18. tour-6.jpg   → Huế - Đà Nẵng - Hội An (cung đình Huế, Hội An)
+19. tour-7.jpg   → Quy Nhơn - Kỳ Co - Eo Gió (biển Quy Nhơn)
+20. tour-8.jpg   → Phong Nha - Huế (hang động, di sản)
+21. tour-9.jpg   → Phú Quốc nghỉ dưỡng (resort, biển)
+22. tour-10.jpg  → Cần Thơ - Cái Răng - Miền Tây (chợ nổi, sông nước)
+23. tour-11.jpg  → Đà Lạt (thành phố ngàn hoa, đồi, hồ)
+
+---- TOUR THÊM (đa dạng) – xem chi tiết trong NOTE-TOUR-ANH.txt ----
+
+24. tour-12.jpg  → Ninh Bình 2N1Đ (Tràng An, Bái Đính, Tam Cốc)
+25. tour-13.jpg  → Hạ Long tàu 2N1Đ (tàu, kayak, hang Luồn)
+26. tour-14.jpg  → Nha Trang VinWonders (biển, cáp treo, Bãi Dài)
+27. tour-15.jpg  → Huế 2N1Đ (Đại Nội, Thiên Mụ, lăng)
+28. tour-16.jpg  → Côn Đảo (biển, Hàng Dương, Đầm Trầu)
+29. tour-17.jpg  → Mũi Né (đồi cát, làng chài, Fairy Stream)
+30. tour-18.jpg  → Mù Cang Chải (ruộng bậc thang, đèo Khau Phạ)
+31. tour-19.jpg  → Hà Nội ẩm thực 1 ngày (phở, bún chả, cà phê trứng)
+32. tour-20.jpg  → Cù Lao Chàm 1 ngày (lặn san hô, đảo)
+33. tour-21.jpg  → Cao Bằng - Pác Bó - Bản Giốc (thác, di tích)
+34. tour-22.jpg  → Hồ Ba Bể 2N1Đ (hồ, động Puông, bản Pác Ngòi)
+35. tour-23.jpg  → Lý Sơn đảo tỏi (hang Câu, chùa Hang, tỏi)
+36. tour-24.jpg  → Cần Giờ - Rừng Sác 1 ngày (rừng ngập mặn, đảo Thạnh An)
+37. tour-25.jpg  → Bình Định Quy Nhơn 4N3Đ (tháp Chăm, Kỳ Co, Eo Gió)
+
+---- ẨM THỰC (trang chủ, main.js) ----
+
+24. food-1.jpg   → Phở Hà Nội (tô phở bò, nước dùng)
+25. food-2.jpg   → Bún bò Huế (tô bún bò)
+26. food-3.jpg   → Cao lầu Hội An (món cao lầu)
+27. food-4.jpg   → Hủ tiếu Nam Vang (tô hủ tiếu)
+28. food-5.jpg   → Bánh mì Sài Gòn (ổ bánh mì)
+29. food-6.jpg   → Chả cá Lã Vọng (chả cá, thì là)
+30. food-7.jpg   → Bánh cuốn Thanh Trì (đĩa bánh cuốn)
+31. food-8.jpg   → Mì Quảng (tô mì Quảng)
+32. food-9.jpg   → Cơm tấm Sài Gòn (đĩa cơm tấm sườn)
+33. food-10.jpg  → Gỏi cuốn (cuốn tôm, rau, bún)
+
+---- CÁC TRANG KHÁC ----
+
+34. tours-hero.jpg      → Trang Tour: cảnh Việt Nam tổng quan (núi, biển, phố cổ)
+35. hotels-hero.jpg     → Trang Khách sạn: resort / khách sạn cao cấp, hồ bơi hoặc view
+36. hotel-1.jpg         → Khách sạn Hạ Long (resort view vịnh)
+37. hotel-2.jpg         → Resort Đà Nẵng (biển, hồ bơi)
+38. hotel-3.jpg         → Resort Phú Quốc (biển, bungalow)
+39. visa-hero.jpg       → Trang Visa: hộ chiếu, visa, sân bay, du lịch quốc tế
+40. services-hero.jpg   → Trang Dịch vụ: xe du lịch, đường đi, road trip
+41. news-hero.jpg       → Trang Tin tức: cảnh đẹp VN, văn hóa, lễ hội
+42. news-featured.jpg   → Bài tin nổi bật: ưu đãi / điểm đến / du lịch
+43. about-hero.jpg      → Trang Giới thiệu: đội ngũ, văn phòng, hoặc cảnh VN chuyên nghiệp
+
+================================================================================
+TỔNG: 56 file ảnh (định dạng .jpg hoặc .png đều được, trong code đang dùng .jpg)
+Kích thước gợi ý: Hero 1600×900 px trở lên; thẻ/card tour 900×500 px trở lên.
+
+※ Ảnh tour mới (tour-12 → tour-25): xem gợi ý chi tiết trong file NOTE-TOUR-ANH.txt
+================================================================================
